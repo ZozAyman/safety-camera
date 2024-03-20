@@ -1,0 +1,23 @@
+[
+    {
+        "id" : 1,
+        "image" : "./assets/imgs/about.1.jpg",
+        "title" : "Security soulations",
+        "description" : "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quo nulla dolorum voluptatum, facilis vel repudiandae.",
+        "btn" : "Learn More"
+    },
+    {
+        "id" : 2,
+        "image" : "./assets/imgs/about.2.jpg",
+        "title" : "Monitor the workplace",
+        "description" : "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quo nulla dolorum voluptatum, facilis vel repudiandae.",
+        "btn" : "Learn More"
+    },
+    {
+        "id" : 3,
+        "image" : "./assets/imgs/security-camera-urban-video.jpg",
+        "title" : "Why choose securez",
+        "description" : "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quo nulla dolorum voluptatum, facilis vel repudiandae.",
+        "btn" : "Learn More"
+    }
+]
